@@ -1,0 +1,5 @@
+D:\natthanitcha_work\OOP (FRI)\LAB  8\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\natthanitcha_work\OOP (FRI)\LAB  8\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.AssemblyInfoInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB  8\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.AssemblyInfo.cs
+D:\natthanitcha_work\OOP (FRI)\LAB  8\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.csproj.CoreCompileInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB  8\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.sourcelink.json
